@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Front-end)](https://git.io/typing-svg)
 
 
-- 🖥️ Desenvolvedor front-end e apaixonado por tecnologia 
+- 🖥️ Apaixonado por tecnologia 
 
 <div align="center">
   <a href="https://github.com/danilosouza-dev">
