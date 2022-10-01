@@ -35,7 +35,7 @@
 
 <div align="center" valing="top">
 
-![Snake animation](https://github.com/matheusferreiral/danilosouza-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danilosouza-dev/danilosouza-dev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
